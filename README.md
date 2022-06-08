@@ -1,4 +1,4 @@
-# Summoner_Churn_Rate
+# Analyzing League of Legends Players' Play Rates and Churn Rates
 
 The purpose of this project is to analyze play rates and churn rates of League of Legends (LoL) players. I will refer to LoL players as summoners. 
 
