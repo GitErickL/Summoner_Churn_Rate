@@ -15,7 +15,8 @@ The next part of the notebook is the data analysis portion which covers:
 2. Final game played by summoners as a function of time. This sesction analyzes which players have churned or are almost churning. I define a player as **churned** if the date of their last game played is at least 2 months before the final date of which we attempted to acquire data of games played by that summoner. Similarly, a player has **almost churned**, if the date of their last game they played is between 1 month and 2 months before the final date of which we attempted to acquire data of games played by that summoner. We found that about 15% of summoners churned, and about 3% almost churned.
 
 
-3. **Number of games played per session as a function of time** for summoners who churned or almost churned.
+3. **Number of games played per session as a function of time** for summoners who churned or almost churned. I find that for many of these players, they were playing less games per session nearing the date of their final game played.
 
-The code I used to acquire summoner data is not shown as it is not the point of this project and would clutter this repo, however, I'm happy to share it upon request.
+
+The code I used to acquire summoner data is not shown as it is not the point of this project and would clutter this repo, however, I'm happy to share it upon request. The future goals for this project are many and are listed in the analysis notebook as it goes along.
 
