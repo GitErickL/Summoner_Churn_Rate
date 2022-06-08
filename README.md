@@ -18,5 +18,8 @@ The next part of the notebook is the data analysis portion which covers:
 3. **Number of games played per session as a function of time** for summoners who churned or almost churned. I find that for many of these summoners, they were playing less games per session nearing the date of their final game played.
 
 
-The code I used to acquire summoner data is not shown as it is not the point of this project and would clutter this repo, however, I'm happy to share it upon request. The future goals for this project are many and are listed in the analysis notebook as it goes along.
+Notes: 
+- The code I used to acquire summoner data is not shown as it is not the point of this project and would clutter this repo, however, I'm happy to share it upon request. 
+- The future goals for this project are many and are listed in the analysis notebook as it goes along.
+- The plots in the Plots folder will not show labels if you are in dark mode. However, all these plots are in the analysis notebook.
 
