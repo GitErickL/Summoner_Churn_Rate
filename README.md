@@ -12,10 +12,10 @@ The next part of the notebook is the data analysis portion which covers:
 
 1. **The average number of games played per day as a function of time** and how LoL community events influence these play rates. I also perform time series decomposition on this data and found that the LoL 2021 world championship (Worlds 2021) had  positive influence on the average number of games played per day.  
 
-2. Final game played by summoners as a function of time. This sesction analyzes which players have churned or are almost churning. I define a player as **churned** if the date of their last game played is at least 2 months before the final date of which we attempted to acquire data of games played by that summoner. Similarly, a player has **almost churned**, if the date of their last game they played is between 1 month and 2 months before the final date of which we attempted to acquire data of games played by that summoner. We found that about 15% of summoners churned, and about 3% almost churned.
+2. Final game played by summoners as a function of time. This sesction analyzes which summoners have churned or are almost churning. I define a summoner as **churned** if the date of their last game played is at least 2 months before the final date of which I attempted to acquire data of games played by that summoner. Similarly, a summoner has **almost churned**, if the date of their last game they played is between 1 month and 2 months before the final date of which I attempted to acquire data of games played by that summoner. I found that about 15% of summoners churned, and about 3% almost churned.
 
 
-3. **Number of games played per session as a function of time** for summoners who churned or almost churned. I find that for many of these players, they were playing less games per session nearing the date of their final game played.
+3. **Number of games played per session as a function of time** for summoners who churned or almost churned. I find that for many of these summoners, they were playing less games per session nearing the date of their final game played.
 
 
 The code I used to acquire summoner data is not shown as it is not the point of this project and would clutter this repo, however, I'm happy to share it upon request. The future goals for this project are many and are listed in the analysis notebook as it goes along.
